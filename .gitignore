@@ -1,0 +1,8 @@
+### Emacs editor temp files
+\#*
+*.elc
+*~
+.*.lock
+
+### Org mode files
+*.org
